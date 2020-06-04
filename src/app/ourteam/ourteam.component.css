@@ -1,0 +1,22 @@
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.75 rem;
+}
+h2,
+h3 {
+  font-weight: 500;
+  line-height: 1.2;
+}
+.ourteam {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.btn-outline-danger {
+  color: #dc3545;
+  border-color: #dc3545;
+}
+.btn-outline-danger:hover {
+  color: #fff;
+}

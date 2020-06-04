@@ -1,0 +1,22 @@
+.btn-outline-info {
+  color: #17a2b8;
+  border-color: #17a2b8;
+}
+.btn-outline-info:hover {
+  color: #fff;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.75 rem;
+}
+h2,
+h3 {
+  font-weight: 500;
+  line-height: 1.2;
+}
+.ourexpertise {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}

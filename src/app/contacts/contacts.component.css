@@ -1,0 +1,12 @@
+.contacts {
+  background-color: #171717;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.btn-outline-info {
+  color: #17a2b8;
+  border-color: #17a2b8;
+}
+.btn-outline-info:hover {
+  color: #fff;
+}
